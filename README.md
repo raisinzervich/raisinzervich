@@ -36,5 +36,5 @@ Criação de estrutura de projeto.
 
 ## Contato
 
-- LinkedIn: [Raissa Sinzervich](https://www.linkedin.com/in/raissa-godoi-41925140b/)
+- LinkedIn: [Raissa Godoi](https://www.linkedin.com/in/raissa-godoi-41925140b/)
 - Email: raiigdoii2007@email.com
