@@ -34,13 +34,7 @@ Criação de estrutura de projeto.
 
 ---
 
-## Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?raisinzervich=RAISINZERVICH&show_icons=true&theme=tokyonight)
-
----
-
 ## Contato
 
-- LinkedIn: [linkedin.com/in/raissa-godoi-41925140b](#)
+- LinkedIn: [https://www.linkedin.com/in/raissa-godoi-41925140b/](#)
 - Email: raiigdoii2007@email.com
