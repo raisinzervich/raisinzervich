@@ -1,35 +1,46 @@
-👋 Olá, eu sou Raissa Sinzervich 
+# Raissa Sinzervich 
 
-💡 Desenvolvedora focada em Inteligência Artificial, Engenharia de Prompt e Lógica de Programação, criando soluções inteligentes que unem automação, eficiência e experiência do usuário.
-Atualmente, concentro meus estudos e projetos em:
+- Estudante de Ciência da Computação  
+- Atualmente aprendendo lógica de programação, algoritmos e desenvolvimento de software  
+- Interessado em Backend, APIs e Engenharia de Software
 
-Estruturação de Prompts Técnicos
-Desenvolvimento de Chatbots com IA
-Automação de Fluxos Inteligentes
-Programação orientada à lógica e resolução de problemas
-Integração entre IA e aplicações modernas
+---
 
-🚀 Sobre Mim
-Sou apaixonado por tecnologia e pela forma como a IA pode transformar processos, otimizar decisões e potencializar produtos digitais.
-Meu foco está em desenvolver soluções que utilizem:
+## Atualmente estudando
 
-Prompts estratégicos
-IA generativa
-Estruturas de raciocínio lógico
-Automação inteligente
-Engenharia de contexto
+- Python
+- Git e GitHub
+- Estruturas de Dados
+- SQL
+- Linux
 
-Busco constantemente evoluir minhas habilidades em desenvolvimento e IA aplicada, criando projetos funcionais e escaláveis.
+---
 
-📌 Projetos em Destaque
-🤖 Chatbot Inteligente com IA
+## Tecnologias e Ferramentas
 
-Desenvolvimento de um chatbot com foco em:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-Respostas contextualizadas
-Estrutura avançada de prompts
-Fluxo conversacional inteligente
-Otimização da experiência do usuário
-Tecnologias utilizadas:
+---
 
-Python • OpenAI API • Prompt Engineering
+## Projetos
+
+🔹 [Chat Bot Especialista](#)  
+Projeto simples utilizando funções e manipulação de dados.
+
+🔹 [Prototipagem de Sistemas](#)  
+Criação de estrutura de projeto.
+
+---
+
+## Estatísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?raisinzervich=RAISINZERVICH&show_icons=true&theme=tokyonight)
+
+---
+
+## Contato
+
+- LinkedIn: [linkedin.com/in/raissa-godoi-41925140b](#)
+- Email: raiigdoii2007@email.com
