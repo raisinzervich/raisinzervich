@@ -20,3 +20,16 @@ Automação inteligente
 Engenharia de contexto
 
 Busco constantemente evoluir minhas habilidades em desenvolvimento e IA aplicada, criando projetos funcionais e escaláveis.
+
+📌 Projetos em Destaque
+🤖 Chatbot Inteligente com IA
+
+Desenvolvimento de um chatbot com foco em:
+
+Respostas contextualizadas
+Estrutura avançada de prompts
+Fluxo conversacional inteligente
+Otimização da experiência do usuário
+Tecnologias utilizadas:
+
+Python • OpenAI API • Prompt Engineering
