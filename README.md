@@ -1,6 +1,6 @@
-👨‍💻 Hi! I’m Ray
+##  Hi! I’m Ray
 
-🎓 Computer Science Student | Aspiring Developer
+ Computer Science Student | Aspiring Developer
 
 Exploring the world of technology through programming, design, and innovation. 🚀
 
@@ -8,7 +8,7 @@ I’m interested in Front-End Development, UI/UX Design, Artificial Intelligence
 
 ⸻
 
-🛠️ Technologies & Tools
+ Technologies & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,c,git,github,figma,vscode" />
@@ -16,7 +16,7 @@ I’m interested in Front-End Development, UI/UX Design, Artificial Intelligence
 
 ⸻
 
-💗 Areas of Interest
+ Areas of Interest
 
 <p align="left">
   <img src="https://img.shields.io/badge/Front--End-116FB6?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -27,15 +27,15 @@ I’m interested in Front-End Development, UI/UX Design, Artificial Intelligence
 
 ⸻
 
-🌱 Currently
+ Currently
 
-* 🌱 Improving my programming skills.
-* 🛠️ Building academic and personal projects.
-* 🎯 Seeking my first internship opportunity in tech.
+*  Improving my programming skills.
+*  Building academic and personal projects.
+*  Seeking my first internship opportunity in tech.
 
 ⸻
 
-📊 GitHub Stats
+ GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -50,11 +50,11 @@ I’m interested in Front-End Development, UI/UX Design, Artificial Intelligence
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/raissa-sinzervich-de-godoi-41925140b/?isSelfProfile=true">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ⸻
 
-✨ Learning, building, and growing every day.
+ Learning, building, and growing every day.
