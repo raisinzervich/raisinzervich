@@ -38,8 +38,8 @@ I’m interested in Front-End Development, UI/UX Design, Artificial Intelligence
  GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raisinzervich&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raisinzervich&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ⸻
@@ -47,7 +47,7 @@ I’m interested in Front-End Development, UI/UX Design, Artificial Intelligence
 🔗 Let’s Connect!
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/raisinzervich">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/raissa-sinzervich-de-godoi-41925140b/?isSelfProfile=true">
