@@ -2,7 +2,7 @@
 
  Computer Science Student | Aspiring Developer
 
-Exploring the world of technology through programming, design, and innovation. 🚀
+Exploring the world of technology through programming, design, and innovation.
 
 I’m interested in Front-End Development, UI/UX Design, Artificial Intelligence, Python, and Cybersecurity. I’m always looking to learn new skills and turn knowledge into practical projects.
 
